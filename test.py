@@ -1,5 +1,3 @@
-msg1 = "zzzz"
-msg2 = "gggg"
-print(msg1, msg2)
-
-
+license_plate = "124저 2121"
+lang='124저 2121'
+print(lang[-4:])
